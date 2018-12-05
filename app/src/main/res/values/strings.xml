@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VisrtusaTask</string>
+    <string name="home_title">Album List</string>
+    <string name="action_settings">Settings</string>
+</resources>
